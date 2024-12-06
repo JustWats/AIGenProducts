@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# https://chatgpt.com/share/67532fc1-0840-800f-b462-134dd937a957
 #===============================================================================
 # Threat Hunting / DFIR Baseline Information Gathering Script with JSON Output
 # and Enhanced Interactive GUI using Whiptail
