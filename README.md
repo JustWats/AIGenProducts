@@ -79,4 +79,4 @@ The **System Baseline Tool** is a powerful PowerShell-based GUI application desi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/SystemBaselineTool.git
+   git clone https://github.com/justwats/AIGenProducts.git
